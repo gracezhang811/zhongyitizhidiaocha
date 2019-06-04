@@ -1,0 +1,33 @@
+.totaltitle{
+	text-align:center;
+}
+
+.title{
+	margin-left: 20px;
+}
+
+.quesitem{
+	margin-left: 20px;
+	list-style:none;
+	padding:0px;
+}
+
+.blank{
+	height: 1rem;
+}
+
+.quesblank{
+	height: 10px;
+}
+
+.subbutton{
+	text-align:center
+}
+
+.scorelist{
+	margin-left: 20px;
+	list-style:none;
+	padding:0px;
+	margin-right: 20px;
+}
+
