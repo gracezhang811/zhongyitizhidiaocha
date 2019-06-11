@@ -31,3 +31,13 @@
 	margin-right: 20px;
 }
 
+.resultlist{
+	margin-left: 20px;
+	list-style:none;
+	padding:0px;
+	margin-right: 20px;
+}
+
+.tiaoyanglist{
+	margin-left: -20px;
+}
